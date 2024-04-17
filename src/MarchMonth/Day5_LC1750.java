@@ -6,7 +6,7 @@ public class Day5_LC1750 {
     public static void main(String[] args) {
         Day5_LC1750 obj = new Day5_LC1750();
 
-        String s = "Hi Hello";
+        String s = "";
         System.out.println(obj.minimumLength(s));
 
         int n = 2;
